@@ -27,3 +27,5 @@ makeSnow();
 for (let i = 0; i < 50; i++) {
   setTimeout(makeSnow, 500 * i)
 }
+
+
